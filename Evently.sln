@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Api", "sources\dani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Modules.Events.Api", "sources\daniel-dantas\Modules\Events\Evently.Modules.Events.Api\Evently.Modules.Events.Api.csproj", "{15FE0F37-FC6F-4D6C-ADAC-DEE8822F8407}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1B2BECCC-DACE-4B71-A00D-A546710EE958}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,5 +41,9 @@ Global
 		{15FE0F37-FC6F-4D6C-ADAC-DEE8822F8407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FE0F37-FC6F-4D6C-ADAC-DEE8822F8407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FE0F37-FC6F-4D6C-ADAC-DEE8822F8407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2BECCC-DACE-4B71-A00D-A546710EE958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2BECCC-DACE-4B71-A00D-A546710EE958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2BECCC-DACE-4B71-A00D-A546710EE958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2BECCC-DACE-4B71-A00D-A546710EE958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
