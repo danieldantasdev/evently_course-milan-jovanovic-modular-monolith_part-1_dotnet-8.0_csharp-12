@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{3BB0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{C2234930-98CA-4C91-8F9A-FB8684989FF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Api", "sources\Api\Evently.Api\Evently.Api.csproj", "{1F69623B-5F67-456C-9920-50FC041370CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Api", "sources\daniel-dantas/Api\Evently.Api\Evently.Api.csproj", "{1F69623B-5F67-456C-9920-50FC041370CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

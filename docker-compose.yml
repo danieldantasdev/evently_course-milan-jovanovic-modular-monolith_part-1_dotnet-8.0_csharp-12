@@ -3,4 +3,4 @@
     image: evently.api
     build:
       context: .
-      dockerfile: sources/Api/Evently.Api/Dockerfile
+      dockerfile: sources/daniel-dantas/Api/Evently.Api/Dockerfile
